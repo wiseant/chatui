@@ -2,7 +2,7 @@ package com.rance.chatui.adapter.holder;
 
 import android.content.Context;
 import android.os.Handler;
-import android.support.v4.content.ContextCompat;
+import androidx.core.content.ContextCompat;
 import android.text.TextPaint;
 import android.view.LayoutInflater;
 import android.view.View;
